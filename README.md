@@ -4,6 +4,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-afandy9895@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:afandy9895@gmail.com)](mailto:afandy9895@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-mohafandy-lightblue?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/mohafandy)](https://t.me/mohafandy)
 
+![Codewars](https://www.codewars.com/users/afandy9895/badges/small)
+
 [![Visits Badge](https://badges.pufler.dev/visits/mohammadafandy/mohammadafandy)](https://badges.pufler.dev)
 [![Years Badge](https://badges.pufler.dev/years/mohammadafandy)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/mohammadafandy)](https://badges.pufler.dev)
@@ -36,5 +38,3 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadafandy&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast&hide=prs,issues,contribs)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadafandy&hide=TeX&layout=compact&theme=highcontrast)
-
-
