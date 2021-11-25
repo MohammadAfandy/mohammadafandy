@@ -35,6 +35,4 @@
 
 ## ⚡ Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mohammadafandy&count_private=true&show_icons=true&include_all_commits=true&theme=highcontrast&hide=prs,issues,contribs)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadafandy&hide=TeX&layout=compact&theme=highcontrast)
